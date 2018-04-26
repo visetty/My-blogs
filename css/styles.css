@@ -56,3 +56,10 @@ li{
 body{
   background-color: pink;
 }
+
+h1{
+  color: maroon;
+  font-style: oblique;
+  font-family: serif;
+  font-weight: bolder;
+}
