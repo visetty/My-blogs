@@ -25,6 +25,12 @@ p.intro{
   font-weight: bold;
   }
 
+p.work{
+  color: #769;
+  text-align: left;
+  font-weight:bolder;
+  }
+
 em{
   color: red;
   }
@@ -44,6 +50,7 @@ a.link{
 
 li{
   list-style-type: square;
+  color: blue;
   }
 
 body{
