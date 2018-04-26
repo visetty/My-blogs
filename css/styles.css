@@ -17,4 +17,10 @@
   color: #926;
   font-style: italic;
   font-size: 30px;
+  }
+
+p.intro{
+  color: #769;
+  text-align: left;
+  font-weight: bold;
 }
