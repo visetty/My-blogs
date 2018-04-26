@@ -1,4 +1,6 @@
-
+head{
+  background-color: yellow;
+}
 .pet{
   color: blue;
   font-family: sans-serif;
@@ -33,4 +35,10 @@ img{
   border-style: solid;
   border-color: blue;
   border-width: 3px;
+}
+
+a.link{
+  color: red;
+  text-decoration: underline;
+  font-weight: bold;
 }
