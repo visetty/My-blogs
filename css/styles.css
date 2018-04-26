@@ -1,5 +1,12 @@
-h1{
+
+.pet{
   color: blue;
-  font-family: inherit;
+  font-family: sans-serif;
   font-size: 40px;
+  }
+
+.flashy{
+  color: coral;
+  font-family: serif;
+  font-size: 30px;
   }
