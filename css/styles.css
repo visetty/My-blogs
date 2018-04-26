@@ -62,4 +62,11 @@ h1{
   font-style: oblique;
   font-family: serif;
   font-weight: bolder;
+  }
+
+h2{
+  color: #871;
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: bold;
 }
