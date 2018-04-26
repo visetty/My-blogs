@@ -45,3 +45,7 @@ a.link{
 li{
   list-style-type: square;
   }
+
+body{
+  background-color: pink;
+}
